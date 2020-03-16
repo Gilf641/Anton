@@ -1,4 +1,4 @@
-# my_friendly_bot
+# Anton
 a wholesome reddit bot
 
 ## 5 things to remember when making your bot
