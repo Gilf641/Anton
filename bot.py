@@ -22,7 +22,7 @@ def get_reddit():
                     client_secret = config.client_secret,
                     # user_agent is a unique string that the dev must make
                     # up to describe their bot (using this format is suggested)
-                    user_agent = "wholesome bot v1.0 by /u/harshi_bar")
+                    user_agent = "wholesome bot v1.0 by /u/gilf641")
 	print ("Logged in!")
 
 	return r
