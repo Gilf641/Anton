@@ -24,8 +24,8 @@ This is something I didn't do in my project, but I did set up the `Procfile` to 
 
 ## How to use this bot
 As of now, on any subreddit, comment one of the following messages, and my_friendly_bot will reply (within the same day because I'm running this manually):
-1. i'm sad, my_friendly_bot
-2. i'm bored, my_friendly_bot
-3. i'm lonely, my_friendly_bot
-4. i'm single, my_friendly_bot
-5. i'm smart, my_friendly_bot
+1. i'm sad, Anton
+2. i'm bored, Anton
+3. i'm lonely, Anton
+4. i'm single, Anton
+5. i'm smart, Anton
