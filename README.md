@@ -29,3 +29,8 @@ As of now, on any subreddit, comment one of the following messages, and my_frien
 3. i'm lonely, Anton
 4. i'm single, Anton
 5. i'm smart, Anton
+
+
+## Things I'm planning to Add
+1. Sentiment Analysis Features
+2. Farm Good Karma
