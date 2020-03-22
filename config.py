@@ -1,3 +1,4 @@
+# ADD PROFILE CREDENTIALS
 username = ""
 password = ""
 client_id = ""
